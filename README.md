@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello
 
 <!--
 **Sandoramix/sandoramix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 📫 How to reach me: [Email](mailto:sandoramix.dev@gmail.com) | [Telegram](https://t.me/sandoramix) | [instagram](https://instagram.com/sandoramixer)
+---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandoramix&show_icons=true&theme=tokyonight)
 
-- 📫 How to reach me: [Email](mailto:sandoramix.dev@gmail.com) | [Telegram](https://t.me/sandoramix) | [instagram](https://instagram.com/sandoramixer)
+
