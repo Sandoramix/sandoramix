@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 -->
 - 📫 How to reach me: [Email](mailto:sandoramix.dev@gmail.com) | [Telegram](https://t.me/sandoramix) | [instagram](https://instagram.com/sandoramixer)
 ---
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandoramix&show_icons=true&theme=radical)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sandoramix)](https://git.io/awesome-stats-card)
