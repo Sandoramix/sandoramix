@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ---
 [![wakatime](https://wakatime.com/badge/user/0d1b19bd-1108-45dd-8ec9-078380fb9fd4.svg)](https://wakatime.com/@0d1b19bd-1108-45dd-8ec9-078380fb9fd4)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/sandoramix?theme=tokyonight)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Sandoramix?cardType=level&theme=github-dark&preferLogin=true&Title=8A2ADD)](https://git.io/awesome-stats-card)
