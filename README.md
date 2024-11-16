@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -->
 - 📫 How to reach me: [Email](mailto:sandoramix.dev@gmail.com) | [Telegram](https://t.me/sandoramix) | [instagram](https://instagram.com/sandoramixer)
-- ⚡ 42 Intra Profile: [odudniak](https://profile.intra.42.fr/users/odudniak)
+
+- I'm currently a student at [42Firenze](https://42firenze.it)
+- ⚡ 42 Profile: [odudniak](https://profile.intra.42.fr/users/odudniak)
 ---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J2DFD3D)
 ---
