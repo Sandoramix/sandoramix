@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 ---
 [![wakatime](https://wakatime.com/badge/user/0d1b19bd-1108-45dd-8ec9-078380fb9fd4.svg)](https://wakatime.com/@0d1b19bd-1108-45dd-8ec9-078380fb9fd4)
 
-[![Anurag's GitHub stats](https://gh-readme-stats-umber.vercel.app/api?username=sandoramix&show_icons=true&theme=dracula&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=sandoramix&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="sandoramix's GitHub Stats" style="min-height:300px;"/>
