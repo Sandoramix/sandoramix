@@ -18,7 +18,7 @@ export const BaseLayout: FC<PropsWithChildren> = ({ children }) => {
 };
 
 
-const spring = { damping: 4, stiffness: 35, restDelta: 0.001 }
+const spring = { damping: 7, stiffness: 69, restDelta: 0.001 }
 
 export function useFollowPointer(ref: RefObject<HTMLDivElement | null>) {
 	const x = useSpring(0, spring)
