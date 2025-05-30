@@ -1,9 +1,10 @@
 import { BaseLayout } from "~/components/layout/BaseLayout";
-import { Maitree as F1 } from "next/font/google";
+import { Maitree } from "next/font/google";
 import { motion } from "motion/react";
 
-const usernameFont = F1({
+const usernameFont = Maitree({
 	weight: "700",
+	subsets: ["latin"],
 });
 
 export default function Home() {
