@@ -45,7 +45,7 @@ export default function Home() {
 							power: 10
 						},
 					}}
-					className={`${usernameFont.className} text-5xl font-bold uppercase`}
+					className={`${usernameFont.className} text-3xl font-bold uppercase select-none`}
 				>
 					Sandoramix
 				</motion.div>
