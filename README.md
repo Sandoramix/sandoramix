@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 **📫 How to reach me**
 - [Email](mailto:sandoramix.dev@gmail.com)
 - [Telegram](https://t.me/sandoramix)
-- [instagram](https://instagram.com/sandoramixer)
+- [Instagram](https://instagram.com/sandoramixer)
 
 ---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J2DFD3D)
