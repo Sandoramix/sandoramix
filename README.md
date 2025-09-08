@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 ---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J2DFD3D)
 ---
-[![wakatime](https://wakatime.com/badge/user/0d1b19bd-1108-45dd-8ec9-078380fb9fd4.svg)](https://wakatime.com/@0d1b19bd-1108-45dd-8ec9-078380fb9fd4)
 
 <img src="https://github-readme-stats.vercel.app/api?username=sandoramix&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="sandoramix's GitHub Stats" style="min-height:300px;"/>
