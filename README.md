@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 -->
+```ts
+console.info(`Hello World!`);
+```
 
-**I'm currently a student at [42Firenze](https://42firenze.it)**
+I'm a Full-Stack + Mobile Developer **and currently a student at [42Firenze](https://42firenze.it)**
 
 ⚡ My 42 Profile is: [odudniak](https://profile.intra.42.fr/users/odudniak)
 
