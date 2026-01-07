@@ -25,7 +25,3 @@ I'm a Full-Stack + Mobile Developer **and currently a student at [42Firenze](htt
 - [Email](mailto:sandoramix.dev@gmail.com)
 - [Telegram](https://t.me/sandoramix)
 - [Instagram](https://instagram.com/sandoramixer)
-
----
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J2DFD3D)
----
