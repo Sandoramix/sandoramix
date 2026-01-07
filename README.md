@@ -29,5 +29,3 @@ I'm a Full-Stack + Mobile Developer **and currently a student at [42Firenze](htt
 ---
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J2DFD3D)
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=sandoramix&theme=monokai&show_icons=true&hide_border=true&count_private=true" alt="sandoramix's GitHub Stats" style="min-height:300px;"/>
