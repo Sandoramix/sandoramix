@@ -41,10 +41,10 @@ console.info(`Hello World!`);
 
 
 ## 🧠 My Focus Areas
-- Frontend Development _(Angular-Vue-NextJS-React-Svelte-Pure HTML)_
-- Backend Development _(Java Spring Boot-Express/Fastify-NextJS-NestJS-Flask)_
-- Mobile Development _(Android-React Native)_
-- Development of Relational DBMS _(PostgreSQL-MySQL-MariaDB-SQLite)_
+- Frontend Development _(`Angular`-`Vue`-`NextJS`-`React`-`Svelte`-`Pure HTML`)_
+- Backend Development _(`Java Spring Boot`-`Express`/`Fastify`-`NextJS`-`NestJS`-`Flask`)_
+- Mobile Development _(`Android`-`React Native`)_
+- Development of Relational DBMS _(`PostgreSQL`-`MySQL`-`MariaDB`-`SQLite`)_
 - Cybercecurity Enstusiast _(CTF/Challenges)_
 - Repair technician hobbyist _(Laptop/Motherboard/Mobile)_
 
