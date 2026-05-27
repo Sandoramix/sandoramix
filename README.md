@@ -96,59 +96,78 @@ console.info(`Hello World!`);
 ---
 
 ## 📌 Pinned Projects
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%">
+<td colspan="3" width="50%">
 
 ### 📚 [42cursus](https://github.com/Sandoramix/42cursus)
 The full journey through **42Firenze's curriculum** — every project, every subject, every segfault survived.
 
-`C` · `Python` · `42 School` · ⭐ 4
+`C` · `Docker` · `C++` · `Web` · `42 School`
 
 </td>
-<td width="50%">
 
-### 🎮 [42-cub3D](https://github.com/Sandoramix/42-cub3D)
-A **raycasting 3D engine** in C from scratch — Wolfenstein-style. No libraries, no shortcuts. Pure math.
+<td colspan="3" width="50%">
 
-`C` · `Graphics` · `Raycasting` · ⭐ 1
+### 💻 [42advanced](https://github.com/Sandoramix/42advanced)
+The full journey through **42Firenze's masteries** — same as 42 cursus but harder.
+
+`Many cool stuff` · `42 School`
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td colspan="2" width="33.33%">
 
 ### 🐚 [42-minishell](https://github.com/Sandoramix/42-minishell)
 A **POSIX shell** built in C — pipes, redirections, builtins, signals and all the fun stuff.
 
-`C` · `Unix` · `Processes` · ⭐ 1
+`C` · `Bash-like shell` · `Unix` · `Processes`
 
 </td>
-<td width="50%">
+
+<td colspan="2" width="33.33%">
 
 ### 🔍 [42-findmypeer](https://github.com/Sandoramix/42-findmypeer)
 **Local web app** for 42Firenze students — find who's on campus in real time.
 
-`JavaScript` · `Web App` · ⭐ 4
+`JavaScript` · `HTML` · `TailwindCSS` · `Web App`
+
+</td>
+
+<td colspan="2" width="33.33%">
+
+### 🎮 [42-cub3D](https://github.com/Sandoramix/42-cub3D)
+A **raycasting 3D engine** in C from scratch — Wolfenstein-style. No libraries, no shortcuts. Pure math.
+
+`C` · `Graphics` · `Raycasting`
 
 </td>
 </tr>
+
 <tr>
-<td width="50%">
+<td colspan="2" width="33.33%">
 
 ### 🎵 [SpotiShortcut](https://github.com/Sandoramix/spotishortcut)
 Global **keyboard shortcuts** for Spotify — save, skip, control without switching focus.
 
-`Python` · `Productivity` · ⭐ 3
+`Python` · `Productivity`
 
 </td>
-<td width="50%">
+
+<td colspan="2" width="33.33%">
 
 ### 🎲 [whoisnext](https://github.com/Sandoramix/whoisnext)
 Pick a **random person** from a list — perfect for peer evals, standups, and group decisions.
 
-`TypeScript` · `Utility` · ⭐ 1
+`TypeScript` · `Utility` · `Web app`
+
+</td>
+
+<td colspan="2" width="33.33%">
+
+<!-- Empty spacer cell -->
 
 </td>
 </tr>
