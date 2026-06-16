@@ -10,6 +10,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sandoramixer)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Sandoramix&label=Profile%20views&color=a371f7&style=flat-square)](https://github.com/Sandoramix)
+![](https://hit.yhype.me/github/profile?account_id=70036883)
 
 </div>
 
