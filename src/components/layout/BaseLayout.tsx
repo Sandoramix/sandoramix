@@ -19,7 +19,7 @@ export const BaseLayout: FC<PropsWithChildren> = ({ children }) => {
 				{children}
 			</div>
 			<motion.div
-				className={`z-10 h-10 w-10 text-3xl`}
+				className={`pointer-events-none fixed top-0 left-0 z-10 h-10 w-10 text-3xl`}
 				ref={ref}
 				style={{ x, y }}
 			>
