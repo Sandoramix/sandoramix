@@ -4,3 +4,27 @@
 	--font-sans: var(--font-geist-sans), ui-sans-serif, system-ui, sans-serif,
 	"Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
+
+* {
+	scrollbar-width: thin;
+	scrollbar-color: #525252 #18181b;
+}
+
+::-webkit-scrollbar {
+	width: 10px;
+	height: 10px;
+}
+
+::-webkit-scrollbar-track {
+	background: #18181b;
+}
+
+::-webkit-scrollbar-thumb {
+	background: #525252;
+	border-radius: 9999px;
+	border: 2px solid #18181b;
+}
+
+::-webkit-scrollbar-thumb:hover {
+	background: #737373;
+}
